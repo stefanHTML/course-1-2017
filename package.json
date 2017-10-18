@@ -19,7 +19,7 @@
     "eslint-plugin-standard": "^3.0.1",
     "webpack": "^3.6.0"
   },
-   "dependencies": {
+   "dependencies":  {
     "converter": "git+https://github.com/stefansukara/converter.git"
   }
 }
